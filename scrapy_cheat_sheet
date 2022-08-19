@@ -1,1 +1,2 @@
 $ scrapy startproject <projectname>
+$ scrapy genspider <name> <url>
